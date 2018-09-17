@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,liblinerSolve_lib.so -o liblinerSolve_lib.so CMakeFiles/linerSolve_lib.dir/src/linerSolver.cpp.o 

@@ -1,0 +1,6 @@
+/home/zxh/2018数学建模/code/version2/build/CMakeFiles/rebuild_cache.dir
+/home/zxh/2018数学建模/code/version2/build/CMakeFiles/tide.dir
+/home/zxh/2018数学建模/code/version2/build/CMakeFiles/linerSolve_lib.dir
+/home/zxh/2018数学建模/code/version2/build/CMakeFiles/edit_cache.dir
+/home/zxh/2018数学建模/code/version2/build/CMakeFiles/dataio_lib.dir
+/home/zxh/2018数学建模/code/version2/build/CMakeFiles/para_lib.dir

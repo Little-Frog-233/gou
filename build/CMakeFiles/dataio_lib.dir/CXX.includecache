@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/dataio.h
+iostream
+-
+stdlib.h
+-
+fstream
+-
+string
+-
+
+../include/parameterCal.h
+iostream
+-
+stdio.h
+-
+ctime
+-
+math.h
+-
+
+/home/zxh/2018数学建模/code/version2/src/dataio.cpp
+dataio.h
+/home/zxh/2018数学建模/code/version2/src/dataio.h
+parameterCal.h
+/home/zxh/2018数学建模/code/version2/src/parameterCal.h
+

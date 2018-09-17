@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/tide.dir/src/dataio.cpp.o CMakeFiles/tide.dir/src/linerSolver.cpp.o CMakeFiles/tide.dir/src/main.cpp.o CMakeFiles/tide.dir/src/parameterCal.cpp.o  -o tide -Wl,-rpath,/home/zxh/2018数学建模/code/version2/build libdataio_lib.so libpara_lib.so liblinerSolve_lib.so 
